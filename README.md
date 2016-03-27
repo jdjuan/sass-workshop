@@ -40,8 +40,7 @@ In order to make it even more epic, this workshop contains a challenge for you t
 
 	![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/images/readme-image2.png "Tree Structure")
 
-2. Create an **index.html** file and import the stylesheets links that were output in the console: 
-
+2. Create an **index.html** file and import the stylesheets links that were output in the console: <br>
 ![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/images/readme-image.png "Console Links")
 
 3. Make compass update your files every time they change by typing in the console:
