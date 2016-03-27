@@ -68,4 +68,4 @@ In order to make it even more epic, this workshop contains a challenge for you t
 </html>
 ```
 
-8. That's it!, you are ready to get started with the challenge.
+####That's it!, you are ready to get started with the challenge.
