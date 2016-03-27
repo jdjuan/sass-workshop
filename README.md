@@ -30,17 +30,17 @@ In order to make it even more epic, this workshop contains a challenge for you t
 	`$ compass -v`
 
 
-## 4. Get Started
+## 4. Set up
 
 1. Open the terminal and create a Compass Project using: 
  
-	`$ compass create Solution`
+	`$ compass create MyProject`
 
 	You should see something like this:	
 
 	![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/images/readme-image2.png "Tree Structure")
 
-2. Create an **index.html** file and import the stylesheets links that were output in the console: <br>
+2. Create an **index.html** file and import the stylesheets links that were output in the console:
 ![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/images/readme-image.png "Console Links")
 
 3. Make compass update your files every time they change by typing in the console:
@@ -51,3 +51,27 @@ In order to make it even more epic, this workshop contains a challenge for you t
 
 5. Create a file called **style.scss** within the sass folder and import it in your html file.
 
+6. Your final project tree should look like this:
+![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/images/readme-image3.png "Final Tree Structure")
+
+
+7. And your final html file should look like this:
+
+`<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<head>
+		<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+		<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  <!--[if IE]>
+      <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+      <![endif]-->
+      <link href="/stylesheets/style.css" rel="stylesheet" type="text/css" />
+  </head>
+</head>
+<body>
+</body>
+</html>`
+
+8. That's it!, you are ready to get started with the challenge.
