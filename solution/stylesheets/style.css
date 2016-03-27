@@ -1,0 +1,46 @@
+/* line 6, ../sass/style.scss */
+body {
+  background-color: #E7E7E7;
+  font-family: sans-serif;
+}
+
+/* line 11, ../sass/style.scss */
+.left {
+  position: fixed;
+  height: 100%;
+  width: 20%;
+}
+
+/* line 17, ../sass/style.scss */
+.right {
+  background-color: #FFF;
+  position: absolute;
+  height: auto;
+  width: 80%;
+  height: 100vh;
+  right: 0;
+}
+
+/* line 26, ../sass/style.scss */
+.logo {
+  background-color: #F68A5E;
+  margin-right: 1rem;
+  margin-left: 1rem;
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color: white;
+  padding: 3rem;
+}
+
+/* line 36, ../sass/style.scss */
+.nav {
+  margin-right: 1rem;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  text-align: right;
+}
+/* line 41, ../sass/style.scss */
+.nav li {
+  background-color: #FFF;
+  margin-bottom: 1rem;
+}
