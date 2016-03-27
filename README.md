@@ -9,7 +9,7 @@ In order to make it even more epic, this workshop contains a challenge for you t
 ## 2. Resources
 
 1. Open and read the [slides](http://www.juandavidherrera.com/sass/slides), I made them with love, plus they are full of relevant links like my social accounts.
-2. Check the [challenge](https://github.com/jdjuan/sass-compass-workshop/blob/master/challenge.png). This is what you are supposed to build using Sass and Compass.
+2. Check the [challenge](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/challenge.png). This is what you are supposed to build using Sass and Compass.
 3. The solution of the challenge is availabe in the [solution](https://github.com/jdjuan/sass-compass-workshop/tree/master/solution) folder.
 
 
@@ -36,7 +36,9 @@ In order to make it even more epic, this workshop contains a challenge for you t
  
 	`$ compass create Solution`
 
-2. Create an **index.html** file and import the stylesheets links that were output in the console: ![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/readme-image.png "Console Links")
+	You should see something like this:	![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/images/readme-image2.png "Tree Structure")
+
+2. Create an **index.html** file and import the stylesheets links that were output in the console: ![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/images/readme-image.png "Console Links")
 
 3. Make compass update your files every time they change by typing in the console:
 
