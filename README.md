@@ -15,19 +15,11 @@ In order to make it even more epic, this workshop contains a challenge for you t
 
 ## 3. Requirements
 
-1. Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller).
+1. Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller) and then run `$ ruby -v`
 
-2. Install [Sass](http://sass-lang.com/install).
+2. Install [Sass](http://sass-lang.com/install) and then run `$ sass -v`
 
-3. Install [Compass](http://compass-style.org/install/).
-
-4. Verify you correctly installed them by typing in the console:
-
-	`$ ruby -v`<br>
-
-	`$ sass -v`<br>
-
-	`$ compass -v`
+3. Install [Compass](http://compass-style.org/install/) and then run `$ compass -v`
 
 
 ## 4. Set up
@@ -52,12 +44,15 @@ In order to make it even more epic, this workshop contains a challenge for you t
 5. Create a file called **style.scss** within the sass folder and import it in your html file.
 
 6. Your final project tree should look like this:
+
 ![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/images/readme-image3.png "Final Tree Structure")
 
 
 7. And your final html file should look like this:
 
-`<html>
+
+```HTML
+<html>
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
@@ -72,6 +67,7 @@ In order to make it even more epic, this workshop contains a challenge for you t
 </head>
 <body>
 </body>
-</html>`
+</html>
+```
 
 8. That's it!, you are ready to get started with the challenge.
