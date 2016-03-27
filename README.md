@@ -43,13 +43,11 @@ In order to make it even more epic, this workshop contains a challenge for you t
 
 5. Create a file called **style.scss** within the sass folder and import it in your html file.
 
-6. Your final project tree should look like this:
-
+6. Your final project tree should look like this:<br>
 ![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/images/readme-image3.png "Final Tree Structure")
 
 
 7. And your final html file should look like this:
-
 
 ```HTML
 <html>
