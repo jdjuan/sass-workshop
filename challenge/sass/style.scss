@@ -1,7 +1,8 @@
 @import "compass/css3";
 
 $white : #FFF;
-$background-color: rgb(random(255),random(255),random(255)); 
+$background-color: #11739C; 
+// $background-color: rgb(random(255),random(255),random(255)); 
 
 @mixin animate($property, $duration, $timing){
 	@include transition-property($property);

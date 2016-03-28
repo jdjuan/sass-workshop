@@ -1,4 +1,4 @@
-/* line 22, ../sass/style.scss */
+/* line 23, ../sass/style.scss */
 h1 {
   -moz-user-select: -moz-none;
   -ms-user-select: none;
@@ -11,7 +11,7 @@ h1 {
   height: 10vh;
 }
 
-/* line 32, ../sass/style.scss */
+/* line 33, ../sass/style.scss */
 .myClass1 {
   -moz-transition-property: background-color, color;
   -o-transition-property: background-color, color;
@@ -25,16 +25,16 @@ h1 {
   -o-transition-timing-function: ease-in;
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
-  background-color: #184614;
-  color: #184614;
+  background-color: #0f698e;
+  color: #0f698e;
 }
-/* line 16, ../sass/style.scss */
+/* line 17, ../sass/style.scss */
 .myClass1:hover {
   background-color: #FFF;
   color: #FFF;
 }
 
-/* line 33, ../sass/style.scss */
+/* line 34, ../sass/style.scss */
 .myClass2 {
   -moz-transition-property: background-color, color;
   -o-transition-property: background-color, color;
@@ -48,16 +48,16 @@ h1 {
   -o-transition-timing-function: ease-in;
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
-  background-color: #143a10;
-  color: #143a10;
+  background-color: #0e5f80;
+  color: #0e5f80;
 }
-/* line 16, ../sass/style.scss */
+/* line 17, ../sass/style.scss */
 .myClass2:hover {
   background-color: #FFF;
   color: #FFF;
 }
 
-/* line 34, ../sass/style.scss */
+/* line 35, ../sass/style.scss */
 .myClass3 {
   -moz-transition-property: background-color, color;
   -o-transition-property: background-color, color;
@@ -71,16 +71,16 @@ h1 {
   -o-transition-timing-function: ease-in;
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
-  background-color: #102e0d;
-  color: #102e0d;
+  background-color: #0c5473;
+  color: #0c5473;
 }
-/* line 16, ../sass/style.scss */
+/* line 17, ../sass/style.scss */
 .myClass3:hover {
   background-color: #FFF;
   color: #FFF;
 }
 
-/* line 35, ../sass/style.scss */
+/* line 36, ../sass/style.scss */
 .myClass4 {
   -moz-transition-property: background-color, color;
   -o-transition-property: background-color, color;
@@ -94,16 +94,16 @@ h1 {
   -o-transition-timing-function: ease-in;
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
-  background-color: #0c220a;
-  color: #0c220a;
+  background-color: #0b4a65;
+  color: #0b4a65;
 }
-/* line 16, ../sass/style.scss */
+/* line 17, ../sass/style.scss */
 .myClass4:hover {
   background-color: #FFF;
   color: #FFF;
 }
 
-/* line 36, ../sass/style.scss */
+/* line 37, ../sass/style.scss */
 .myClass5 {
   -moz-transition-property: background-color, color;
   -o-transition-property: background-color, color;
@@ -117,16 +117,16 @@ h1 {
   -o-transition-timing-function: ease-in;
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
-  background-color: #081606;
-  color: #081606;
+  background-color: #094057;
+  color: #094057;
 }
-/* line 16, ../sass/style.scss */
+/* line 17, ../sass/style.scss */
 .myClass5:hover {
   background-color: #FFF;
   color: #FFF;
 }
 
-/* line 37, ../sass/style.scss */
+/* line 38, ../sass/style.scss */
 .myClass6 {
   -moz-transition-property: background-color, color;
   -o-transition-property: background-color, color;
@@ -140,16 +140,16 @@ h1 {
   -o-transition-timing-function: ease-in;
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
-  background-color: #040a03;
-  color: #040a03;
+  background-color: #083649;
+  color: #083649;
 }
-/* line 16, ../sass/style.scss */
+/* line 17, ../sass/style.scss */
 .myClass6:hover {
   background-color: #FFF;
   color: #FFF;
 }
 
-/* line 38, ../sass/style.scss */
+/* line 39, ../sass/style.scss */
 .myClass7 {
   -moz-transition-property: background-color, color;
   -o-transition-property: background-color, color;
@@ -163,16 +163,16 @@ h1 {
   -o-transition-timing-function: ease-in;
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
-  background-color: black;
-  color: black;
+  background-color: #062c3b;
+  color: #062c3b;
 }
-/* line 16, ../sass/style.scss */
+/* line 17, ../sass/style.scss */
 .myClass7:hover {
   background-color: #FFF;
   color: #FFF;
 }
 
-/* line 39, ../sass/style.scss */
+/* line 40, ../sass/style.scss */
 .myClass8 {
   -moz-transition-property: background-color, color;
   -o-transition-property: background-color, color;
@@ -186,16 +186,16 @@ h1 {
   -o-transition-timing-function: ease-in;
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
-  background-color: black;
-  color: black;
+  background-color: #05222e;
+  color: #05222e;
 }
-/* line 16, ../sass/style.scss */
+/* line 17, ../sass/style.scss */
 .myClass8:hover {
   background-color: #FFF;
   color: #FFF;
 }
 
-/* line 40, ../sass/style.scss */
+/* line 41, ../sass/style.scss */
 .myClass9 {
   -moz-transition-property: background-color, color;
   -o-transition-property: background-color, color;
@@ -209,16 +209,16 @@ h1 {
   -o-transition-timing-function: ease-in;
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
-  background-color: black;
-  color: black;
+  background-color: #031720;
+  color: #031720;
 }
-/* line 16, ../sass/style.scss */
+/* line 17, ../sass/style.scss */
 .myClass9:hover {
   background-color: #FFF;
   color: #FFF;
 }
 
-/* line 41, ../sass/style.scss */
+/* line 42, ../sass/style.scss */
 .myClass10 {
   -moz-transition-property: background-color, color;
   -o-transition-property: background-color, color;
@@ -232,10 +232,10 @@ h1 {
   -o-transition-timing-function: ease-in;
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
-  background-color: black;
-  color: black;
+  background-color: #020d12;
+  color: #020d12;
 }
-/* line 16, ../sass/style.scss */
+/* line 17, ../sass/style.scss */
 .myClass10:hover {
   background-color: #FFF;
   color: #FFF;
