@@ -35,13 +35,13 @@ In order to make it even more epic, this workshop contains a challenge for you t
 2. Create an **index.html** file and import the stylesheets links that were output in the console:
 ![alt text](https://github.com/jdjuan/sass-workshop/blob/master/slides/images/readme-image.png "Console Links")
 
-3. Make compass update your files every time they change by typing in the console:
+3. Make Compass update your files every time they change by typing in the console:
 
 	`$ cd ..`<br>
 
 	`$ compass watch MyProject`
 
-5. Create a file called **style.scss** within the sass folder and import it in your html file.
+5. Create a file called **style.scss** within the sass folder and import it into your html file.
 
 6. Your final project tree should look like this:<br>
 ![alt text](https://github.com/jdjuan/sass-workshop/blob/master/slides/images/readme-image3.png "Final Tree Structure")
@@ -58,7 +58,6 @@ In order to make it even more epic, this workshop contains a challenge for you t
 	<link href="stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
 	<link href="stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
 	<!--[if IE]><link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" /><![endif]-->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<link href="stylesheets/style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
