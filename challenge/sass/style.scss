@@ -9,13 +9,24 @@ $background-color: rgb(random(255),random(255),random(255));
 	@include transition-timing-function($timing);
 }
 
-@mixin initialize($darken, $property: background-color, $duration:0.2s, $timing: ease-in){
-	@include animate($property, $duration, $timing);
+@mixin initialize($darken, $property: (background-color,color), $duration:(2s,0.1s), $timing: ease-in){
+	@include animate($property, $duration, $timing); 
 	background-color: darken($background-color, $darken);
-	&:hover{background-color: $white;}
+	color: darken($background-color, $darken); 
+	&:hover{
+		background-color: $white;
+		color: $white;
+	} 
 }
 
-h1{height: 10vh}
+h1{
+	@include user-select(none);
+	font: 3rem sans-serif;
+	font-weight: 700;
+	text-align: center;
+	line-height: 10vh;
+	height: 10vh;
+}
 
 // {.myClass$ {@include initialize(background-color, 1s, ease-in, ($*5)%);}}*10
 .myClass1 {@include initialize(3%);}

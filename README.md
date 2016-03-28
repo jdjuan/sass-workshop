@@ -53,15 +53,13 @@ In order to make it even more epic, this workshop contains a challenge for you t
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
-	<head>
-		<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
-		<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
-  <!--[if IE]>
-      <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
-      <![endif]-->
-      <link href="/stylesheets/style.css" rel="stylesheet" type="text/css" />
-  </head>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+	<title>Challenge</title>
+	<link href="stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+	<link href="stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+	<!--[if IE]><link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" /><![endif]-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	<link href="stylesheets/style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 </body>
