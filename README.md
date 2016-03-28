@@ -9,8 +9,8 @@ In order to make it even more epic, this workshop contains a challenge for you t
 ## 2. Resources
 
 1. Open and read the [slides](http://www.juandavidherrera.com/sass/slides), I made them with love, plus they are full of relevant links like my social accounts.
-2. Check the [challenge](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/challenge.png). This is what you are supposed to build using Sass and Compass.
-3. The solution of the challenge is availabe in the [solution](https://github.com/jdjuan/sass-compass-workshop/tree/master/solution) folder.
+2. Check the [challenge](http://juandavidherrera.com/sass/challenge). This is what you are supposed to build using Sass and Compass.
+3. The solution of the challenge is availabe in the [challenge](https://github.com/jdjuan/sass-workshop/tree/master/challenge) folder.
 
 
 ## 3. Requirements
@@ -30,10 +30,10 @@ In order to make it even more epic, this workshop contains a challenge for you t
 
 	You should see something like this:	
 
-	![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/images/readme-image2.png "Tree Structure")
+	![alt text](https://github.com/jdjuan/sass-workshop/blob/master/slides/images/readme-image2.png "Tree Structure")
 
 2. Create an **index.html** file and import the stylesheets links that were output in the console:
-![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/images/readme-image.png "Console Links")
+![alt text](https://github.com/jdjuan/sass-workshop/blob/master/slides/images/readme-image.png "Console Links")
 
 3. Make compass update your files every time they change by typing in the console:
 
@@ -44,7 +44,7 @@ In order to make it even more epic, this workshop contains a challenge for you t
 5. Create a file called **style.scss** within the sass folder and import it in your html file.
 
 6. Your final project tree should look like this:<br>
-![alt text](https://github.com/jdjuan/sass-compass-workshop/blob/master/slides/images/readme-image3.png "Final Tree Structure")
+![alt text](https://github.com/jdjuan/sass-workshop/blob/master/slides/images/readme-image3.png "Final Tree Structure")
 
 
 7. And your final html file should look like this:

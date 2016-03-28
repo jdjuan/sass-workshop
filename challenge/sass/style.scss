@@ -1,0 +1,30 @@
+@import "compass/css3";
+
+$white : #FFF;
+$background-color: rgb(random(255),random(255),random(255)); 
+
+@mixin animate($property, $duration, $timing){
+	@include transition-property($property);
+	@include transition-duration($duration);
+	@include transition-timing-function($timing);
+}
+
+@mixin initialize($darken, $property: background-color, $duration:0.2s, $timing: ease-in){
+	@include animate($property, $duration, $timing);
+	background-color: darken($background-color, $darken);
+	&:hover{background-color: $white;}
+}
+
+h1{height: 10vh}
+
+// {.myClass$ {@include initialize(background-color, 1s, ease-in, ($*5)%);}}*10
+.myClass1 {@include initialize(3%);}
+.myClass2 {@include initialize(6%);}
+.myClass3 {@include initialize(9%);}
+.myClass4 {@include initialize(12%);}
+.myClass5 {@include initialize(15%);}
+.myClass6 {@include initialize(18%);}
+.myClass7 {@include initialize(21%);}
+.myClass8 {@include initialize(24%);}
+.myClass9 {@include initialize(27%);}
+.myClass10 {@include initialize(30%);}
