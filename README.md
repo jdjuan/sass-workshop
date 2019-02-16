@@ -1,5 +1,7 @@
 # Sass Workshop
 
+> Enjoy!
+
 ## 1. Introduction
 
 This is a Sass Workshop intented to give you an overview on how to use it in your everyday projects along with Compass.
